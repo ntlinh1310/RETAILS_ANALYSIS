@@ -7,6 +7,7 @@ Xóm Retail là chuỗi bán lẻ đa quốc gia chuyên phân phối các sản
 Công ty vận hành 
 + 66 cửa hàng vật lý
 + 1 kênh bán hàng online
+  
 Doanh thu annual ước tính khoảng 1.2 tỷ USD, lượng khách hàng active trên 1.5 triệu người và catalog sản phẩm gồm 2.500+ SKU thuộc 8 category chính: Computers, Cell Phones, Home Appliances, Audio, TV and Video, Games and Toys, Cameras and Camcorders, Music.
 Cấu trúc business
 Xóm Retail tổ chức theo mô hình centralized merchandising + decentralized operations:
