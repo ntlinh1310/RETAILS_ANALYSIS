@@ -45,8 +45,12 @@ Trong đó:
 •	Năm 2018 có mức tăng trưởng cao nhất 72.32% so với năm trước đo với 7.42 triệu đô
 
 •	Năm 2019, doanh thu tiếp tục đạt mức đỉnh 18.3 triệu đô tuy nhiên tốc độ tăng trưởng đã bắt đầu có dấu hiệu chững lại khi chỉ còn 42.81%.
+
 •	Nhận thấy rằng nhu cầu mua sắm tập trung chủ vào Q1 và Q4 hằng năm.
+
 •	Q1/2020 khởi đầu khá thành công với mức doanh thu đạt 5 triệu đô - cao hơn cả cùng kỳ năm trước.
+
 Vấn đề
 Mặc dù Q1/2020 đạt doanh thu cao nhưng khi tổng kết năm 2020 chỉ đạt 9 triệu đô, với mức tăng trưởng -49.1% so với cùng kỳ năm trước.
+
 Vậy tại sao năm 2020 doanh thu lại giảm một nửa chỉ sau 1 năm? Nguyên nhân do đâu, quy mô ảnh hưởng như nào?
